@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stormy</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_message">There was an error, please try again</string>
+    <string name="error_message_button">Ok</string>
+    <string name="temperature_label">100</string>
+</resources>
