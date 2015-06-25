@@ -7,4 +7,7 @@
     <string name="error_message">There was an error, please try again</string>
     <string name="error_message_button">Ok</string>
     <string name="temperature_label">100</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="no_daily_forecast_data">There is no data to display</string>
+    <string name="title_activity_hourly_forecast">HourlyForecastActivity</string>
 </resources>
